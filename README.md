@@ -26,6 +26,8 @@ flowchart LR
     DIFF -. "compare" .-> WD
     DIFF -. "compare" .-> IDX
 
+Modification par Jules Balluais
+
     classDef zone fill:#e8f4ff,stroke:#2b7de9,color:#0b2d5c;
     classDef cmd fill:#fff4d6,stroke:#e0a800,color:#5c4400;
     classDef dist fill:#e9f7ec,stroke:#28a745,color:#0d3d1c;
